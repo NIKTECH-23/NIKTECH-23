@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>OPS Plan Overview</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            font-size: 12px; /* 12px text size */
+            color: black;
+            background-color: #e3f2fd; /* light blue background */
+            margin: 0;
+            padding: 20px;
+            line-height: 1.5;
+        }
+        .section {
+            margin-bottom: 20px;
+        }
+        .selfie {
+            display: inline-block;
+            width: 200px;   /* Width of the rectangle */
+            height: 300px;  /* Height of the rectangle */
+            border-radius: 10%;
+            margin: 10px 0;
+        }
+    </style>
+</head>
+<body>
+
+    <!-- Introduction Section -->
+    <div class="section" id="introduction">
+        <h2>Introduction</h2>
+        <p>My name is Nikita, your Help Desk Supervisor</p>
+        <img src="C:\Users\owner\OneDrive\Documents\Desktop\it ends with us.jpg" alt="Selfie of Nikita" class="selfie"> 
+        <p>Overview of coming fiscal year internal Help Desk operations plan</p>
+    </div>
+
+    <!-- Mission Section -->
+    <div class="section" id="mission">
+        <h2>Mission</h2>
+        <p>Provide efficient support, enhancing user satisfaction by 15%</p>
+    </div>
+
+    <!-- Vision Section -->
+    <div class="section" id="vision">
+        <h2>Vision</h2>
+        <p>Deliver reliable support through continuous improvements as well as innovation</p>
+    </div>
+
+    <!-- Goals Section -->
+    <div class="section" id="goals">
+        <h2>SMART Goals & Benefits</h2>
+
+        <p><strong>Goal 1:</strong> Reduce response time by 20% by Q3</p>
+        <p><strong>Benefit:</strong> Minimizes user downtime, ensuring quicker resolutions</p>
+
+        <p><strong>Goal 2:</strong> Increase First Contact Resolution by 25% by year-end</p>
+        <p><strong>Benefit:</strong> Streamlines issue resolution, enhancing user experience</p>
+
+        <p><strong>Goal 3:</strong> Decrease ticket backlog by 30% by mid-year</p>
+        <p><strong>Benefit:</strong> Ensures prompt attention to new requests, improving satisfaction</p>
+
+        <p><strong>Goal 4:</strong> Improve customer satisfaction score by 15% by year-end</p>
+        <p><strong>Benefit:</strong> Encourages positive feedback, fostering trust plus confidence</p>
+
+        <p><strong>Goal 5:</strong> Decrease incident resolution time by 20% by Q4</p>
+        <p><strong>Benefit:</strong> Provides quicker solutions, reducing overall wait time</p>
+    </div>
+
+    <!-- Final Paragraph -->
+    <div class="section" id="feedback">
+        <h2>Feedback</h2>
+        <p>Open to feedback. Contact me at <a href="mailto:nikitaphogat05@gmail.com">nikitaphogat05@gmail.com</a> or call (437) 661-1250</p>
+    </div>
+
+</body>
+</html>
